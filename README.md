@@ -9,10 +9,13 @@ For bacutor to run smoothly on your system, you will need blender 64 bit and pyt
 
 ![Bacutor Website](http://bacutor.freeiz.com)
 
-#Dependencies
+# Dependencies
 
 Bacutor is powered by
-![Bacutor Website](https://github.com/PavelTorgashov/FastColoredTextBox) by Pavel Torgashov
-![Bacutor Website](https://github.com/RobinPerris/DarkUI) by Robin Perris
+
+![FastColouredTextBox](https://github.com/PavelTorgashov/FastColoredTextBox) by Pavel Torgashov
+
+![DarkUI](https://github.com/RobinPerris/DarkUI) by Robin Perris
+
 
 Reference the above Assemblies with the bacutor project
