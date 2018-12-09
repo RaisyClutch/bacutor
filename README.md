@@ -1,4 +1,4 @@
-# bacutor
+# Bacutor - Blender Addon Creator
 
 
 
